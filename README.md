@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JenishJivani/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JenishJivani/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/JenishJivani/DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JenishJivani/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/JenishJivani/DSA/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/JenishJivani/DSA/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JenishJivani/DSA/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/JenishJivani/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
