@@ -18,4 +18,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/JenishJivani/DSA/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/JenishJivani/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JenishJivani/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
