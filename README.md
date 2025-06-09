@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JenishJivani/DSA/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/JenishJivani/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JenishJivani/DSA/tree/master/0070-climbing-stairs) |
+| [2383-add-two-integers](https://github.com/JenishJivani/DSA/tree/master/2383-add-two-integers) |
 ## String
 |  |
 | ------- |
