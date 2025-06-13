@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/JenishJivani/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/JenishJivani/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JenishJivani/DSA/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/JenishJivani/DSA/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JenishJivani/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JenishJivani/DSA/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/JenishJivani/DSA/tree/master/0414-third-maximum-number) |
 ## String Matching
 |  |
 | ------- |
