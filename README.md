@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/JenishJivani/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/JenishJivani/DSA/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/JenishJivani/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JenishJivani/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/JenishJivani/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/JenishJivani/DSA/tree/master/0459-repeated-substring-pattern) |
 ## Stack
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JenishJivani/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JenishJivani/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/JenishJivani/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JenishJivani/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
