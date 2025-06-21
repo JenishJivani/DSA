@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JenishJivani/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/JenishJivani/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JenishJivani/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JenishJivani/DSA/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JenishJivani/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/JenishJivani/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/JenishJivani/DSA/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/JenishJivani/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JenishJivani/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JenishJivani/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/JenishJivani/DSA/tree/master/0434-number-of-segments-in-a-string) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JenishJivani/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JenishJivani/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JenishJivani/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/JenishJivani/DSA/tree/master/0414-third-maximum-number) |
 ## String Matching
 |  |
