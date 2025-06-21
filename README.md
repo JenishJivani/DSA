@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JenishJivani/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JenishJivani/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JenishJivani/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/JenishJivani/DSA/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JenishJivani/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JenishJivani/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JenishJivani/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/JenishJivani/DSA/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/JenishJivani/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/JenishJivani/DSA/tree/master/0459-repeated-substring-pattern) |
 ## Stack
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JenishJivani/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JenishJivani/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JenishJivani/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/JenishJivani/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/JenishJivani/DSA/tree/master/0414-third-maximum-number) |
 ## String Matching
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/JenishJivani/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/JenishJivani/DSA/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/JenishJivani/DSA/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
