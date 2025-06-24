@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JenishJivani/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JenishJivani/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/JenishJivani/DSA/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JenishJivani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JenishJivani/DSA/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/JenishJivani/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JenishJivani/DSA/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JenishJivani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2383-add-two-integers](https://github.com/JenishJivani/DSA/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JenishJivani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/JenishJivani/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/JenishJivani/DSA/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JenishJivani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## String Matching
 |  |
 | ------- |
