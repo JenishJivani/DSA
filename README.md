@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JenishJivani/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JenishJivani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/JenishJivani/DSA/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/JenishJivani/DSA/tree/master/0409-longest-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/JenishJivani/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JenishJivani/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/JenishJivani/DSA/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/JenishJivani/DSA/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/JenishJivani/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/JenishJivani/DSA/tree/master/0459-repeated-substring-pattern) |
 ## Stack
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/JenishJivani/DSA/tree/master/0100-same-tree) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/JenishJivani/DSA/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
